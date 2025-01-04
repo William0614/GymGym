@@ -14,6 +14,22 @@
 		95712D802C74661C00C50249 /* GymGymTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712D7F2C74661C00C50249 /* GymGymTests.swift */; };
 		95712D8A2C74661C00C50249 /* GymGymUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712D892C74661C00C50249 /* GymGymUITests.swift */; };
 		95712D8C2C74661C00C50249 /* GymGymUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712D8B2C74661C00C50249 /* GymGymUITestsLaunchTests.swift */; };
+		95712DA12C74A59900C50249 /* WorkoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DA02C74A59900C50249 /* WorkoutView.swift */; };
+		95712DA32C74A5CB00C50249 /* RoutineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DA22C74A5CB00C50249 /* RoutineView.swift */; };
+		95712DA52C74A5D800C50249 /* RecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DA42C74A5D800C50249 /* RecordView.swift */; };
+		95712DA72C74A5E000C50249 /* MoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DA62C74A5E000C50249 /* MoreView.swift */; };
+		95712DAA2C74A8B400C50249 /* AddRoutineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DA92C74A8B400C50249 /* AddRoutineView.swift */; };
+		95712DAC2C74F54900C50249 /* AddWorkOutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DAB2C74F54900C50249 /* AddWorkOutView.swift */; };
+		95712DB02C74F89C00C50249 /* WorkPartSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DAF2C74F89C00C50249 /* WorkPartSelection.swift */; };
+		95712DB22C75089300C50249 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DB12C75089300C50249 /* CustomTextField.swift */; };
+		95712DB42C7654EF00C50249 /* HideKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DB32C7654EF00C50249 /* HideKeyboard.swift */; };
+		95712DB62C77939B00C50249 /* Workout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DB52C77939B00C50249 /* Workout.swift */; };
+		95712DB92C788CE600C50249 /* WorkoutManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DB82C788CE600C50249 /* WorkoutManager.swift */; };
+		95712DBB2C7B02A300C50249 /* ExpandableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95712DBA2C7B02A300C50249 /* ExpandableView.swift */; };
+		959A9B942C7DAB4F00B45AB5 /* RoutineManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959A9B932C7DAB4F00B45AB5 /* RoutineManager.swift */; };
+		959A9B962C7DAB8100B45AB5 /* Routine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959A9B952C7DAB8100B45AB5 /* Routine.swift */; };
+		959A9B9A2C7F703600B45AB5 /* MockRoutine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959A9B992C7F703600B45AB5 /* MockRoutine.swift */; };
+		959A9B9C2C83761900B45AB5 /* SearchWorkoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959A9B9B2C83761900B45AB5 /* SearchWorkoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +60,22 @@
 		95712D852C74661C00C50249 /* GymGymUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GymGymUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		95712D892C74661C00C50249 /* GymGymUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymGymUITests.swift; sourceTree = "<group>"; };
 		95712D8B2C74661C00C50249 /* GymGymUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymGymUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		95712DA02C74A59900C50249 /* WorkoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutView.swift; sourceTree = "<group>"; };
+		95712DA22C74A5CB00C50249 /* RoutineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutineView.swift; sourceTree = "<group>"; };
+		95712DA42C74A5D800C50249 /* RecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordView.swift; sourceTree = "<group>"; };
+		95712DA62C74A5E000C50249 /* MoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreView.swift; sourceTree = "<group>"; };
+		95712DA92C74A8B400C50249 /* AddRoutineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRoutineView.swift; sourceTree = "<group>"; };
+		95712DAB2C74F54900C50249 /* AddWorkOutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddWorkOutView.swift; sourceTree = "<group>"; };
+		95712DAF2C74F89C00C50249 /* WorkPartSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkPartSelection.swift; sourceTree = "<group>"; };
+		95712DB12C75089300C50249 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		95712DB32C7654EF00C50249 /* HideKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboard.swift; sourceTree = "<group>"; };
+		95712DB52C77939B00C50249 /* Workout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workout.swift; sourceTree = "<group>"; };
+		95712DB82C788CE600C50249 /* WorkoutManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutManager.swift; sourceTree = "<group>"; };
+		95712DBA2C7B02A300C50249 /* ExpandableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableView.swift; sourceTree = "<group>"; };
+		959A9B932C7DAB4F00B45AB5 /* RoutineManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutineManager.swift; sourceTree = "<group>"; };
+		959A9B952C7DAB8100B45AB5 /* Routine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routine.swift; sourceTree = "<group>"; };
+		959A9B992C7F703600B45AB5 /* MockRoutine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockRoutine.swift; sourceTree = "<group>"; };
+		959A9B9B2C83761900B45AB5 /* SearchWorkoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchWorkoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,8 +128,10 @@
 			children = (
 				95712D6E2C74661A00C50249 /* GymGymApp.swift */,
 				95712D702C74661A00C50249 /* ContentView.swift */,
+				95712DB32C7654EF00C50249 /* HideKeyboard.swift */,
 				95712D722C74661B00C50249 /* Assets.xcassets */,
 				95712D742C74661B00C50249 /* Preview Content */,
+				95712DA82C74A61300C50249 /* Tabs */,
 			);
 			path = GymGym;
 			sourceTree = "<group>";
@@ -125,6 +159,44 @@
 				95712D8B2C74661C00C50249 /* GymGymUITestsLaunchTests.swift */,
 			);
 			path = GymGymUITests;
+			sourceTree = "<group>";
+		};
+		95712DA82C74A61300C50249 /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				959A9B972C7DB5E500B45AB5 /* Views */,
+				959A9B982C7DB62700B45AB5 /* Manager and Components */,
+				95712DAF2C74F89C00C50249 /* WorkPartSelection.swift */,
+				95712DB12C75089300C50249 /* CustomTextField.swift */,
+			);
+			path = Tabs;
+			sourceTree = "<group>";
+		};
+		959A9B972C7DB5E500B45AB5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				95712DA22C74A5CB00C50249 /* RoutineView.swift */,
+				95712DA92C74A8B400C50249 /* AddRoutineView.swift */,
+				95712DAB2C74F54900C50249 /* AddWorkOutView.swift */,
+				959A9B9B2C83761900B45AB5 /* SearchWorkoutView.swift */,
+				95712DA02C74A59900C50249 /* WorkoutView.swift */,
+				95712DA42C74A5D800C50249 /* RecordView.swift */,
+				95712DA62C74A5E000C50249 /* MoreView.swift */,
+				95712DBA2C7B02A300C50249 /* ExpandableView.swift */,
+				959A9B992C7F703600B45AB5 /* MockRoutine.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		959A9B982C7DB62700B45AB5 /* Manager and Components */ = {
+			isa = PBXGroup;
+			children = (
+				959A9B952C7DAB8100B45AB5 /* Routine.swift */,
+				959A9B932C7DAB4F00B45AB5 /* RoutineManager.swift */,
+				95712DB52C77939B00C50249 /* Workout.swift */,
+				95712DB82C788CE600C50249 /* WorkoutManager.swift */,
+			);
+			path = "Manager and Components";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,7 +263,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
-				LastUpgradeCheck = 1540;
+				LastUpgradeCheck = 1620;
 				TargetAttributes = {
 					95712D6A2C74661A00C50249 = {
 						CreatedOnToolsVersion = 15.4;
@@ -215,6 +287,8 @@
 				Base,
 			);
 			mainGroup = 95712D622C74661A00C50249;
+			packageReferences = (
+			);
 			productRefGroup = 95712D6C2C74661A00C50249 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,8 +331,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95712DB42C7654EF00C50249 /* HideKeyboard.swift in Sources */,
+				959A9B9A2C7F703600B45AB5 /* MockRoutine.swift in Sources */,
 				95712D712C74661A00C50249 /* ContentView.swift in Sources */,
+				959A9B942C7DAB4F00B45AB5 /* RoutineManager.swift in Sources */,
+				95712DA72C74A5E000C50249 /* MoreView.swift in Sources */,
+				95712DB02C74F89C00C50249 /* WorkPartSelection.swift in Sources */,
+				95712DA32C74A5CB00C50249 /* RoutineView.swift in Sources */,
+				95712DB22C75089300C50249 /* CustomTextField.swift in Sources */,
+				95712DBB2C7B02A300C50249 /* ExpandableView.swift in Sources */,
+				95712DA12C74A59900C50249 /* WorkoutView.swift in Sources */,
+				95712DA52C74A5D800C50249 /* RecordView.swift in Sources */,
+				95712DAA2C74A8B400C50249 /* AddRoutineView.swift in Sources */,
+				959A9B9C2C83761900B45AB5 /* SearchWorkoutView.swift in Sources */,
+				95712DAC2C74F54900C50249 /* AddWorkOutView.swift in Sources */,
 				95712D6F2C74661A00C50249 /* GymGymApp.swift in Sources */,
+				95712DB92C788CE600C50249 /* WorkoutManager.swift in Sources */,
+				959A9B962C7DAB8100B45AB5 /* Routine.swift in Sources */,
+				95712DB62C77939B00C50249 /* Workout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,7 +565,6 @@
 		95712D932C74661C00C50249 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -495,7 +584,6 @@
 		95712D942C74661C00C50249 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -515,7 +603,6 @@
 		95712D962C74661C00C50249 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = S34X948N75;
@@ -533,7 +620,6 @@
 		95712D972C74661C00C50249 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = S34X948N75;
